@@ -81,3 +81,4 @@ if count == 2 :
 
 else : 
     print("not a prime number");
+
