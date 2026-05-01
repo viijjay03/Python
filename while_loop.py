@@ -1,26 +1,26 @@
-# #[Q1]
-# count = 1 ; 
+ #[Q1]
+count = 1 ; 
 
-# while count <= 10 :
-#     print(count);
-#     count = count + 1;
+while count <= 10 :
+     print(count);
+     count = count + 1;
 
 #[Q2]
 
-# num = 1;
-# while num <= 10 :
-#     print(num);
-#     num = num + 1;
+num = 1;
+while num <= 10 :
+     print(num);
+     num = num + 1;
 
 #[Q3]
-# num1 = int(input("Enter a Number :"));
+num1 = int(input("Enter a Number :"));
 
-# rev = 0;
-# while num1 > 0 :
-#     rev = rev * 10 + num1 % 10
-#     num1 = num1 // 10;
+rev = 0;
+while num1 > 0 :
+     rev = rev * 10 + num1 % 10
+     num1 = num1 // 10;
 
-# print(rev);
+print(rev);
 
 #[Q4] The Gusse Game
 
